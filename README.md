@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](/avatar.png)
+![](https://github.com/imjma/imjma/blob/master/avatar.png)
 
 ### 📫 How to reach me: 
 - Twitter: [@imjma](https://twitter.com/imjma)
