@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](/avatar.png)
+
 ### 📫 How to reach me: 
 - Twitter: [@imjma](https://twitter.com/imjma)
 - Email: [im@jma.dev](mailto:im@jma.dev)
