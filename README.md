@@ -10,7 +10,7 @@
 - Instagram: [@filmape](https://www.instagram.com/filmape/)
 - LinkedIn: [https://www.linkedin.com/in/jiema/](https://www.linkedin.com/in/jiema/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=imjma.imjma)
+[![jma](https://www.randos.online/u/imjma)](https://randos.online/u/imjma/next)
 
 <!--
 **imjma/imjma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
