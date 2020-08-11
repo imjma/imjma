@@ -1,16 +1,18 @@
 ### Hi there 👋
 
+<!--
 ![](https://github.com/imjma/imjma/blob/master/avatar.png)
+[![jma](https://www.randos.online/u/imjma)](https://randos.online/u/imjma/next)
+-->
 
 ### 📫 How to reach me: 
-- Twitter: [@imjma](https://twitter.com/imjma)
-- Email: [im@jma.dev](mailto:im@jma.dev)
-- Website: [jma.dev](https://jma.dev)
-- Blog: [jma.im](https://jma.im)
-- Instagram: [@filmape](https://www.instagram.com/filmape/)
-- LinkedIn: [https://www.linkedin.com/in/jiema/](https://www.linkedin.com/in/jiema/)
+[![Twitter](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://twitter.com/imjma)
+[![Email](https://img.icons8.com/ios-filled/50/000000/email-open.png)](mailto:im@jma.dev)
+[![Website](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://jma.dev)
+[![Blog](https://img.icons8.com/ios-filled/50/000000/blog.png)](https://jma.im)
+[![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram-new.png)](https://www.instagram.com/filmape/)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/jiema/)
 
-[![jma](https://www.randos.online/u/imjma)](https://randos.online/u/imjma/next)
 
 <!--
 **imjma/imjma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
