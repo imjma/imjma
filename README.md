@@ -1,31 +1,34 @@
-### Hi there 👋
+```
+package main
 
-<!--
-![](https://github.com/imjma/imjma/blob/master/avatar.png)
-[![jma](https://www.randos.online/u/imjma)](https://randos.online/u/imjma/next)
--->
+import (
+	"fmt"
+)
 
-### 📫 How to reach me: 
-- [Twitter](https://twitter.com/imjma)
-- [Email](mailto:im@jma.dev)
-- [Website](https://jma.dev)
-- [Blog](https://jma.im)
-- [Instagram](https://www.instagram.com/filmape/)
-- [Instagram film](https://www.instagram.com/negativeso/)
-- [LinkedIn](https://www.linkedin.com/in/jiema/)
+type About struct {
+	Name     string
+	Role     string
+	Pronouns string
+	Code     []string
+	Social   map[string]string
+}
 
-
-<!--
-**imjma/imjma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main() {
+	me := About{
+		Name:     "Jie Ma",
+		Role:     "Software Engineer",
+		Pronouns: "he/him",
+		Code:     []string{"golang", "php"},
+		Social: map[string]string{
+			"twitter":  "https://twitter.com/imjma",
+			"email":    "hi@jma.dev",
+			"www":      "https://jma.dev",
+			"blog":     "https://jma.im",
+			"ins":      "https://www.instagram.com/filmape/",
+			"insfilm":  "https://www.instagram.com/negativeso/",
+			"linkedin": "https://www.linkedin.com/in/jiema/",
+		},
+	}
+	fmt.Println(me)
+}
+```
